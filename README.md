@@ -31,7 +31,7 @@ Este é um aplicativo **React Native** desenvolvido com **Expo**. O objetivo des
 
 4. Inicie o servidor de desenvolvimento:
    ```bash
-   npm start
+   npx expo start
    ```
 
 5. 📱 Escaneie o QR Code exibido no terminal ou no navegador com o aplicativo **Expo Go** (disponível na App Store e Google Play).
