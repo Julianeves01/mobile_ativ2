@@ -7,16 +7,23 @@ Este é um aplicativo **React Native** desenvolvido com **Expo**. O objetivo des
 
 e demonstrar habilidades no desenvolvimento de interfaces móveis utilizando React Native.
 
+---
+
+
 ## 🎆 | Funcionalidades
 
 - 🎀 | Exibição de uma mensagem de boas-vindas estilizada.
 - 🖼️ | Exibição de uma imagem com bordas arredondadas.
+
+---
 
 ## 🛠️ | Tecnologias Utilizadas
 
 - ⚛️ | **React Native**: Framework para desenvolvimento de aplicativos móveis.
 - 🌐 | **Expo**: Plataforma para desenvolvimento, construção e implantação de aplicativos React Native.
 - 💻 | **JavaScript**: Linguagem de programação utilizada no projeto.
+
+---
 
 ## 🚀 | Como Executar o Projeto
 
@@ -42,6 +49,8 @@ e demonstrar habilidades no desenvolvimento de interfaces móveis utilizando Rea
 5. 📱 | Escaneie o QR Code exibido no terminal ou no navegador com o aplicativo **Expo Go** (disponível na App Store e Google Play).
 
 
+---
+
 
 ## 📂 | Estrutura do Projeto
 
@@ -56,6 +65,8 @@ mobile_ativ2/
 ├── package.json          # Dependências e scripts do projeto
 └── .expo/                # Configurações locais do Expo
 ```
+
+---
 
 ## 📑 | Licença
 
