@@ -1,12 +1,11 @@
 # 📱 Mobile Atividade 02 - Componentes essenciais
 Este é um aplicativo **React Native** desenvolvido com **Expo**. O objetivo deste projeto Criar uma página simples contendo:
 
-### 📊 | View → Contêiner para estruturar elementos
-Text → Exibe textos
-Image → Exibe imagens
+#### 📊 | View → Contêiner para estruturar elementos
+#### 📃 | Text → Exibe textos
+#### 🙋‍♀️ | Image → Exibe imagens
 
-
-é demonstrar habilidades no desenvolvimento de interfaces móveis utilizando React Native.
+e demonstrar habilidades no desenvolvimento de interfaces móveis utilizando React Native.
 
 ## 🎆 | Funcionalidades
 
