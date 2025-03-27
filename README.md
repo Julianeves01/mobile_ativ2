@@ -1,19 +1,25 @@
-# 📱 Mobile Ativ2
+# 📱 Mobile Atividade 02 - Componentes essenciais
+Este é um aplicativo **React Native** desenvolvido com **Expo**. O objetivo deste projeto Criar uma página simples contendo:
 
-Este é um aplicativo **React Native** desenvolvido com **Expo**. O objetivo deste projeto é demonstrar habilidades no desenvolvimento de interfaces móveis utilizando React Native.
+### 📊 | View → Contêiner para estruturar elementos
+Text → Exibe textos
+Image → Exibe imagens
 
-## ✨ Funcionalidades
 
-- 🎀 Exibição de uma mensagem de boas-vindas estilizada.
-- 🖼️ Exibição de uma imagem com bordas arredondadas.
+é demonstrar habilidades no desenvolvimento de interfaces móveis utilizando React Native.
 
-## 🛠️ Tecnologias Utilizadas
+## 🎆 | Funcionalidades
 
-- ⚛️ **React Native**: Framework para desenvolvimento de aplicativos móveis.
-- 🌐 **Expo**: Plataforma para desenvolvimento, construção e implantação de aplicativos React Native.
-- 💻 **JavaScript**: Linguagem de programação utilizada no projeto.
+- 🎀 | Exibição de uma mensagem de boas-vindas estilizada.
+- 🖼️ | Exibição de uma imagem com bordas arredondadas.
 
-## 🚀 Como Executar o Projeto
+## 🛠️ | Tecnologias Utilizadas
+
+- ⚛️ | **React Native**: Framework para desenvolvimento de aplicativos móveis.
+- 🌐 | **Expo**: Plataforma para desenvolvimento, construção e implantação de aplicativos React Native.
+- 💻 | **JavaScript**: Linguagem de programação utilizada no projeto.
+
+## 🚀 | Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
@@ -34,11 +40,11 @@ Este é um aplicativo **React Native** desenvolvido com **Expo**. O objetivo des
    npx expo start
    ```
 
-5. 📱 Escaneie o QR Code exibido no terminal ou no navegador com o aplicativo **Expo Go** (disponível na App Store e Google Play).
+5. 📱 | Escaneie o QR Code exibido no terminal ou no navegador com o aplicativo **Expo Go** (disponível na App Store e Google Play).
 
 
 
-## 📂 Estrutura do Projeto
+## 📂 | Estrutura do Projeto
 
 ```
 mobile_ativ2/
@@ -52,7 +58,7 @@ mobile_ativ2/
 └── .expo/                # Configurações locais do Expo
 ```
 
-## 📑 Licença
+## 📑 | Licença
 
 Este projeto está licenciado sob a licença MIT. Isso significa que você pode usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software, desde que mantenha o aviso de copyright original.
 
@@ -60,7 +66,7 @@ Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
-## 👩‍💻 Desenvolvido por **Julia Neves**.
+## 👩‍💻 | Desenvolvido por **Julia Neves**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julianeves01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-neves-252b202b1/)
