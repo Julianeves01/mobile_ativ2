@@ -1,11 +1,10 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Image } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+      <Text style={styles.text}> 🎀 Bem vindos ao meu app mores! </Text>
+      <Image source={require('./assets/img/babe.jpg')} style={styles.image} />
     </View>
   );
 }
@@ -17,4 +16,19 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
+  image: {
+    width: 300,
+    height: 300,
+    borderRadius: 50,
+    margin: 40,
+  },
+
+  text: {
+    fontSize: 30,
+    fontWeight: 'bold',
+    color: 'pink',
+    textAlign: 'center',
+    margin: 40,
+  }
 });
